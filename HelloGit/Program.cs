@@ -12,6 +12,7 @@ namespace HelloGit
         {
             Console.WriteLine("Hello Git");
             Console.WriteLine("One more line");
+            Console.ReadLine();
         }
     }
 }
