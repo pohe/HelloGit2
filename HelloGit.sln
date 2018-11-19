@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloGit", "HelloGit\HelloGit.csproj", "{43E447B0-A657-4C7A-BD9E-6C7045C05DEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43E447B0-A657-4C7A-BD9E-6C7045C05DEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43E447B0-A657-4C7A-BD9E-6C7045C05DEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43E447B0-A657-4C7A-BD9E-6C7045C05DEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43E447B0-A657-4C7A-BD9E-6C7045C05DEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93D58ADE-72FA-4D36-9BD5-7FF448BC3932}
+	EndGlobalSection
+EndGlobal
